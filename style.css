@@ -1,0 +1,12 @@
+html {
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+h1 {
+	color:white;
+	text-align: center;
+	font-size: 2cm;
+	margin:auto;
+	text-shadow: 3px 3px 1px blue;
+	padding:40px;
+	background-color: black;
+}
